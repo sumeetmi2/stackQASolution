@@ -1,1 +1,2 @@
-GET / helpers.PlayerController.run
+GET /1 helpers.PlayerController.run
+GET /2 helpers.PlayerController.run1
